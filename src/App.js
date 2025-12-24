@@ -371,7 +371,7 @@ const MainContent = () => {
           
           <div className="surprise-box">
              <h2>Surprise! 🎉</h2>
-             <p>Mong mọi điều tốt đẹp nhất sẽ đến với cậu! ❤️</p>
+             <p>Yêu tui nhìu lơn nhó ❤️</p>
              <div style={{fontSize: '3rem', marginTop: '10px'}}>🧸 🌹 🍫</div>
           </div>
         </div>
